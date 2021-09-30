@@ -1,0 +1,5 @@
+com\satyam175\CoronavirusTrackerApplication.class
+com\satyam175\coronavirustracker\controllers\HomeController.class
+com\satyam175\coronavirustracker\models\LocationStats.class
+com\satyam175\coronavirustracker\services\CoronaVirusDataService.class
+com\satyam175\coronavirustracker\config\WebConfig.class
